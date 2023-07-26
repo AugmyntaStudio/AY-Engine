@@ -1,2 +1,2 @@
-# BSC-Engine
-Game Engine software for the Beta Studio Console Engine.
+# AY-Engine
+Game Engine software for the Augmynta AR Headset.
